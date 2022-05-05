@@ -1,12 +1,18 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
 .navbar {
     background-color: aquamarine;
 }
 
 .projetos-de-casa {
     background-color: rgb(91, 121, 121);
+    color: white;
 }
 
 .margin {
     
     padding-bottom: 20px;
+    padding-top: 10px;
 }
