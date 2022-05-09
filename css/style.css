@@ -9,10 +9,28 @@ body{
 .projetos-de-casa {
     background-color: rgb(91, 121, 121);
     color: white;
+    font-style: italic;
+}
+
+.projetos-do-curso {
+    background-color: rgb(255, 255, 131);
+    color: rgb(10, 9, 9);
+    font-style: italic;
+}
+
+.projetos-do-trabalho{
+    background-color: rgb(180, 137, 221);
+    color:aliceblue;
+    font-style: italic;
 }
 
 .margin {
     
     padding-bottom: 20px;
     padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: rgb(27, 14, 14);
+    color:rgb(176, 224, 224);
 }
